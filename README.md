@@ -1,4 +1,4 @@
 # StarwarMoviesAPI
-- An API built in Node.js. It provides the user with Star Wars characters.
-- GET Retrieve character info from the database.
-- GET Retrieve character info based on their gender from the database.
+-  The API fetches the star war film datas like Title, Director info, epsod Id... 
+- GET Retrieve films details info from the Starwar database....
+
