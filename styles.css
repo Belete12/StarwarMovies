@@ -10,3 +10,9 @@ th {
     width: 15%;
     
   }
+
+
+td,  th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }  
